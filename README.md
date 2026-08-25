@@ -56,10 +56,12 @@ Used as the final model due to superior predictive performance.
 
 ## Repository Structure 📂
 
-notebooks/
-screenshots/
-README.md
-requirements.txt
+- notebooks/
+- screenshots/
+- README.md
+- requirements.txt
+- .gitignore
+- LICENSE
 
 ---
 
